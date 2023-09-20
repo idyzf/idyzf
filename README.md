@@ -14,7 +14,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✍️ Random Meme
+<!--### ✍️ Random Meme
 <!--![](https://pbs.twimg.com/media/FhoYpMHX0AYmdx4?format=jpg&name=medium)
 ---
 [![](https://visitcount.itsvg.in/api?id=idyzf&icon=0&color=0)](https://visitcount.itsvg.in)
