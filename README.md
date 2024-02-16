@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Machine Learning Analyst<br>💡 Mainly Python and R programming<br>🧬 Scientist by heart and BSc<br>🔭 Looking for colaborations
+💻 Machine Learning Analyst<br>💡 Python and R programming<br>🧬 Scientist by heart and BSc<br>🔭 Looking for colaborations
 
 
 ## 🌐 Socials:
