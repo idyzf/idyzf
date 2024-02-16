@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Machine Learning Analyst<br> I'm currently working with python and R statistics<br>🔬 Bioinformatics pipelines<br>🧬 Biotechnologist BSc<br>
+💻 Machine Learning Analyst<br>💕 I'm currently working with python and R statistics<br>🔬 Bioinformatics pipelines<br>🧬 Biotechnologist BSc<br>
 
 
 ## 🌐 Socials:
