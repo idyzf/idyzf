@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧬 I'm a biotechnologist BSc<br>💻 I'm currently working with python and R statistics<br>🔬 I'm looking for collaboration in bioinformatics pipelines<br>💉 Health data enthusiast<br> 
+💻 I'm a Machine Learning Analyst<br>💻 I'm currently working with python and R statistics<br>🔬 I'm looking for collaboration in bioinformatics pipelines<br>🧬 Biotechnologist BSc<br>
 
 
 ## 🌐 Socials:
