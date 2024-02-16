@@ -10,8 +10,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=idyzf&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idyzf&hide_progress=true)
 ![Ideli's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyzf&show_icons=true&theme=radical)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idyzf&hide_progress=true)</br>
 
  
 ### ✍️ Random Dev Quote
