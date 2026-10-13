@@ -58,5 +58,6 @@ Python · Docker · Git · GitHub · LLMs · RAG · AI Agents · Software Archit
 # Let's Connect
 
 I'm interested in opportunities and collaborations at the intersection of product, AI, software engineering, and genomics.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideli-zanesco-fontes-baptista-3bb949159/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zaneesco.fontes@gmail.com) 
 
