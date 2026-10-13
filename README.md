@@ -53,7 +53,7 @@ Measure outcomes and iterate based on feedback.
 
 # Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) · ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) · Git · GitHub · LLMs · RAG · AI Agents · Software Architecture
+Python · JavaScript · Docker · Git · GitHub · LLMs · RAG · AI Agents · Software Architecture
 
 # Let's Connect
 
