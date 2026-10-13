@@ -53,11 +53,11 @@ Measure outcomes and iterate based on feedback.
 
 # Technologies & Tools
 
-Python · Docker · Git · GitHub · LLMs · RAG · AI Agents · Software Architecture
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) · ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) · Git · GitHub · LLMs · RAG · AI Agents · Software Architecture
 
 # Let's Connect
 
 I'm interested in opportunities and collaborations at the intersection of product, AI, software engineering, and genomics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideli-zanesco-fontes-baptista-3bb949159/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zaneesco.fontes@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideli-zanesco-fontes-baptista-3bb949159/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](zaneesco.fontes@gmail.com) 
 
